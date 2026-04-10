@@ -44,3 +44,38 @@
   background: #111;
   color: #fff;
 }
+
+
+@media (max-width: 768px) {
+  .contribute-section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .contribute-title {
+    font-size: 30px;
+    line-height: 1.05;
+  }
+
+  .contribute-text {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  .contribute-button {
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .contribute-section {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .contribute-title {
+    font-size: 25px;
+  }
+}
