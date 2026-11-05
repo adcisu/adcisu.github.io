@@ -1,0 +1,5 @@
+/* Explore styling is inherited; Resources uses square previews. */
+.resources-grid .project-image-wrap { aspect-ratio: 1 / 1; }
+.resources-grid .project-card { cursor: default; }
+.resources-grid .project-card.has-download { cursor: pointer; }
+.resources-grid .project-card:focus-visible { outline: 2px solid #e66b64; outline-offset: -2px; }
