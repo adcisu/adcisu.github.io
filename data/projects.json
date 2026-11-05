@@ -72,5 +72,25 @@
       "assets/brian_chicago/chicago (6).jpeg",
       "assets/brian_chicago/chicago (7).jpeg"
     ]
+  }, 
+  {
+    "id": "project_6",
+    "title": "Groundline",
+    "author": "Marianna Mujica",
+    "year": "2026",
+    "location": "Chicago, Illinois",
+    "category": "Field Studies",
+    "image": "assets/marianna/marianna (1).png",
+    "concept": "Chicago's skyline from the groundline",
+    "process": "",
+    "final": "",
+    "video": "",
+    "gallery": [
+      "assets/marianna/marianna (1).png",
+      "assets/marianna/marianna (2).png",
+      "assets/marianna/marianna (3).png",
+      "assets/marianna/marianna (4).png",
+      "assets/marianna/marianna (5).png"
+    ]
   } 
 ]
